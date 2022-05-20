@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
 package-lock.json
-contents/videos/Medium Resolution/
-contents/videos/Low Resolution/
-contents/videos/Very Low Resolution/
+Medium Resolution/
+Low Resolution/
+Very Low Resolution/

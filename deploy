@@ -1,0 +1,4 @@
+npm run deploy
+git commit contents -m "auto-commit on publish"
+git push
+echo "Published, comitted, and pushed. It can take up to 60s for changes to be visible worldwide."
